@@ -11,7 +11,7 @@ class Minus extends Component {
             <div className="minus">
                 <img src="minusImage.png" alt="minusImage!"/>
                 <p>
-                    <button type="button" className="btn btn-danger">MINUS ONE</button>
+                    <button type="button" onClick={this.props.onMinus} className="btn btn-danger">MINUS ONE</button>
                 </p>
             </div>
         )

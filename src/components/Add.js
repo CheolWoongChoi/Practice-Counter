@@ -11,7 +11,7 @@ class Add extends Component {
             <div className="add">
                 <img src="addImage.png" alt="addImage!"/>
                 <p>
-                    <button type="button" className="btn btn-primary">ADD ONE</button>
+                    <button type="button" onClick={this.props.onAdd} className="btn btn-primary">ADD ONE</button>
                 </p> 
             </div>
         )
