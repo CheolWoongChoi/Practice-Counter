@@ -7,6 +7,7 @@ export default function(state = 0, action) {
         case "MINUS":
             console.log("MINUS");
             return action.number - 1;
+        default:
     }
 
     return state;
