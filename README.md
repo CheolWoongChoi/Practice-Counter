@@ -3,6 +3,7 @@
 React & Redux를 사용하여 만든 간단한 웹 어플리케이션 - Counter 입니다.
 
 
+---
 
 
 ### 웹 어플리케이션 화면
@@ -10,7 +11,7 @@ React & Redux를 사용하여 만든 간단한 웹 어플리케이션 - Counter 
 ![Counter_Image](./explanation_image.PNG)
 
 
-
+---
 
 ### 기능 설명  
 
@@ -19,7 +20,7 @@ React & Redux를 사용하여 만든 간단한 웹 어플리케이션 - Counter 
 - \- 버튼을 누르면 1씩 감소합니다.
 
 
-
+---
 
 ### 설치 방법
 
